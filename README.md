@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FireWoRx21
-- 👀 I’m interested in Fire Ecology, Spatial Analysis and Wildfire-Forestry Interactions. 
-- 🌱 I’m currently learning spatial analysis in R, developing new scripts to analyze fire behaviour. 
-- 💞️ I’m looking to collaborate on projects involving fire interaction with other values (i.e. forestry operations). 
-- 📫 How to reach me jarandal@ualberta.ca
+- 👋 Hi, I’m Jared Randall
+- 👀 I’m interested in Wildland Fire, Forest Management, Spatial Analysis and Statistics
+- 📫 jarandal@ualberta.ca
 
 <!---
 FireWoRx21/FireWoRx21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
